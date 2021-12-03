@@ -21,8 +21,8 @@
                     bg-dark navbar-dark
                     col-12">
 
-                <!-- Brand -->
-                <a class="navbar-brand" href="#">Logo</a>
+                 <!-- Brand -->
+                <a class="navbar-brand" href="Homepage.html">Logo</a>
                 <!-- Responsive Button for the smaller menu -->
                 <button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -32,13 +32,16 @@
                     <ul class="navbar-nav">
                         <!-- Links -->
                         <li class="nav-item">
+                            <a class="nav-link" href="Homepage.html">Shop</a>
+                        </li>
+                       <li class="nav-item">
                             <a class="nav-link" href="Shop.html">Shop</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="Recipe.html">Recipe</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="Contact.html">Contact</a>
+                            <a class="nav-link" href="contact.html">Contact</a>
                         </li>
 
                         <!-- Dropdown -->
